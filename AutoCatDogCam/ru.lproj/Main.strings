@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Camera Unavailable"; ObjectID = "0UR-Z0-vpd"; */
+"0UR-Z0-vpd.text" = "Camera Unavailable";
+
+/* Class = "UISegmentedControl"; 2xT-3X-ynw.segmentTitles[0] = "Speed"; ObjectID = "2xT-3X-ynw"; */
+"2xT-3X-ynw.segmentTitles[0]" = "Speed";
+
+/* Class = "UISegmentedControl"; 2xT-3X-ynw.segmentTitles[1] = "Balanced"; ObjectID = "2xT-3X-ynw"; */
+"2xT-3X-ynw.segmentTitles[1]" = "Balanced";
+
+/* Class = "UISegmentedControl"; 2xT-3X-ynw.segmentTitles[2] = "Quality"; ObjectID = "2xT-3X-ynw"; */
+"2xT-3X-ynw.segmentTitles[2]" = "Quality";
+
+/* Class = "UIButton"; normalTitle = "Tap to resume"; ObjectID = "vwC-Uu-c5B"; */
+"vwC-Uu-c5B.normalTitle" = "Tap to resume";
+
+/* Class = "UILabel"; text = "Live"; ObjectID = "yNU-ES-mV9"; */
+"yNU-ES-mV9.text" = "Live";

@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  AutoCatDogCam
+
+  Created by 間嶋大輔 on 2020/02/14.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+NSPhotoLibraryAddUsageDescription = "Por favor permita el acceso a la biblioteca de fotos. Esto permite que la aplicación guarde las fotos y videos tomados.";
+NSPhotoLibraryUsageDescription = "Por favor permita el acceso a la biblioteca de fotos. Esto permite que la aplicación guarde las fotos y videos tomados.";
+NSCameraUsageDescription = "Por favor permita el acceso a la cámara. Esto permite que la aplicación dispare perros y gatos con obturador automático.";
+NSMicrophoneUsageDescription = "Por favor permita el acceso al micrófono. Esto permite que la aplicación grabe audio al grabar videos.";
+CFBundleName = "PerroGato";

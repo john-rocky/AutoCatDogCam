@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  AutoCatDogCam
+
+  Created by 間嶋大輔 on 2020/02/14.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+NSPhotoLibraryAddUsageDescription = "Please allow access to the photo library. This allows the app to save the photos and videos taken.";
+NSPhotoLibraryUsageDescription = "Please allow access to the photo library. This allows the app to save the photos and videos taken.";
+NSCameraUsageDescription = "Please allow access to the camera. This allows the app to shoot dogs and cats with automatic shutter.";
+NSMicrophoneUsageDescription = "Please allow access to the microphone. This allows the app to record audio when recording video.";
+CFBundleName = "DogCat";

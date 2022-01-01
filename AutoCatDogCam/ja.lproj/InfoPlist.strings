@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  AutoCatDogCam
+
+  Created by 間嶋大輔 on 2020/02/14.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+CFBundleName = "いぬねこ";
